@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hostalinfante.cl/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es-cl" href="https://hostalinfante.cl/"/>
+  </url>
+  <url>
+    <loc>https://hostalinfante.cl/hospedaje-en-illapel.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es-cl" href="https://hostalinfante.cl/hospedaje-en-illapel.html"/>
+  </url>
+  <url>
+    <loc>https://hostalinfante.cl/hospedaje-en-los-vilos.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es-cl" href="https://hostalinfante.cl/hospedaje-en-los-vilos.html"/>
+  </url>
+  <url>
+    <loc>https://hostalinfante.cl/arriendo-illapel-canela.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es-cl" href="https://hostalinfante.cl/arriendo-illapel-canela.html"/>
+  </url>
+</urlset>
